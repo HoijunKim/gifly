@@ -1,10 +1,10 @@
 # gifly
 
-**[hoijun-kim.github.io/gifly](https://hoijun-kim.github.io/gifly/)** ·
-[Releases](https://github.com/hoijun-kim/gifly/releases)
+**[hoijunkim.github.io/gifly](https://hoijunkim.github.io/gifly/)** ·
+[Releases](https://github.com/hoijunkim/gifly/releases)
 
-![release](https://img.shields.io/github/v/release/hoijun-kim/gifly?color=8b5cf6)
-![downloads](https://img.shields.io/github/downloads/hoijun-kim/gifly/total?color=8b5cf6)
+![release](https://img.shields.io/github/v/release/hoijunkim/gifly?color=8b5cf6)
+![downloads](https://img.shields.io/github/downloads/hoijunkim/gifly/total?color=8b5cf6)
 ![platform](https://img.shields.io/badge/platform-Windows-0078D6)
 ![license](https://img.shields.io/badge/license-PolyForm%20NC%201.0.0-blue)
 
@@ -20,7 +20,7 @@ timing and options; a bundled [FFmpeg](https://ffmpeg.org) does the encoding.
 
 ## Get gifly
 
-Two builds on the [releases](https://github.com/hoijun-kim/gifly/releases) page:
+Two builds on the [releases](https://github.com/hoijunkim/gifly/releases) page:
 
 - **`gifly-<version>-win64.zip`** - the small app plus a `ffmpeg/` folder next
   to it. Unzip and run `gifly.exe`; keep the `ffmpeg/` folder beside it.
