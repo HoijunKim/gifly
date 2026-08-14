@@ -1,5 +1,5 @@
 PackageIdentifier: hoijunkim.gifly
-PackageVersion: 0.1.0
+PackageVersion: 0.1.1
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
@@ -7,7 +7,7 @@ NestedInstallerFiles:
     PortableCommandAlias: gifly
 Installers:
   - Architecture: x64
-    InstallerUrl: https://github.com/hoijunkim/gifly/releases/download/v0.1.0/gifly-0.1.0-standalone-win64.zip
-    InstallerSha256: D2ABFBBC3B0D56838A7CAE26D6027239B968053F382434EDD16F7626B01BC755
+    InstallerUrl: https://github.com/hoijunkim/gifly/releases/download/v0.1.1/gifly-0.1.1-standalone-win64.zip
+    InstallerSha256: 008670B8DC8C280D158FCB94000141E24CC4639E6C9E5CA14AB5402D67838EAC
 ManifestType: installer
 ManifestVersion: 1.6.0
