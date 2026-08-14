@@ -7,7 +7,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
 

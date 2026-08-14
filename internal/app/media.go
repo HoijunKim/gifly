@@ -3,7 +3,7 @@ package app
 import (
 	"context"
 
-	"github.com/hoijun-kim/gifly/internal/probe"
+	"github.com/hoijunkim/gifly/internal/probe"
 )
 
 // VideoInfo is what the front end shows about a picked video.

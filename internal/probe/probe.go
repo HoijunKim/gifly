@@ -17,7 +17,7 @@ import (
 	_ "image/jpeg"
 	_ "image/png"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
 )
 
 // Media is what gifly needs to know about a video before converting it.

@@ -17,9 +17,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
-	"github.com/hoijun-kim/gifly/internal/gifjob"
-	"github.com/hoijun-kim/gifly/internal/probe"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/gifjob"
+	"github.com/hoijunkim/gifly/internal/probe"
 )
 
 // parseLoop turns the -loop flag into a LoopMode: "forever", "once", or a

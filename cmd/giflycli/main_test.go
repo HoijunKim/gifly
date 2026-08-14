@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/hoijun-kim/gifly/internal/gifjob"
+	"github.com/hoijunkim/gifly/internal/gifjob"
 )
 
 func TestParseLoop(t *testing.T) {

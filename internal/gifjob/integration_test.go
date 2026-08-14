@@ -12,7 +12,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
 )
 
 func TestImagesProduceARealGIF(t *testing.T) {

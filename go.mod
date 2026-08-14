@@ -1,4 +1,4 @@
-module github.com/hoijun-kim/gifly
+module github.com/hoijunkim/gifly
 
 go 1.26.4
 

@@ -204,8 +204,8 @@ Mirrors flip's flow:
   on the download page stating ffmpeg is bundled under LGPL 2.1+. This is a hard
   release gate, not optional.
 - **Public repo** `github.com/hoijun-kim/gifly`, a landing site under `docs/`
-  served at `hoijun-kim.github.io/gifly/`, and a row on the work board in the
-  hoijun-kim.github.io blog, like the siblings.
+  served at `hoijunkim.github.io/gifly/`, and a row on the work board in the
+  hoijunkim.github.io blog, like the siblings.
 - **Release:** a checksummed zip of `gifly.exe` + the `ffmpeg/` folder. The zip
   is large (ffmpeg is tens of MB); the download page says so.
 - Author Hoijun Kim; no AI co-author on any commit.

@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
 )
 
 // decodeConfig is image.DecodeConfig, named locally so statResult reads clearly.

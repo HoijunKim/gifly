@@ -3,7 +3,7 @@ package app
 import (
 	"testing"
 
-	"github.com/hoijun-kim/gifly/internal/gifjob"
+	"github.com/hoijunkim/gifly/internal/gifjob"
 )
 
 func TestPercentClamped(t *testing.T) {

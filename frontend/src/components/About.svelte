@@ -39,12 +39,12 @@
       <div class="by">Made by <b>H.K</b></div>
 
       <div class="links">
-        <button class="link" type="button" on:click={() => openURL("https://github.com/hoijun-kim/gifly")}>GitHub</button>
-        <button class="link" type="button" on:click={() => openURL("https://hoijun-kim.github.io/gifly/")}>Website</button>
+        <button class="link" type="button" on:click={() => openURL("https://github.com/hoijunkim/gifly")}>GitHub</button>
+        <button class="link" type="button" on:click={() => openURL("https://hoijunkim.github.io/gifly/")}>Website</button>
       </div>
 
       <div class="legal">
-        <p>Licensed under the <button class="ln" type="button" on:click={() => openURL("https://github.com/hoijun-kim/gifly/blob/master/LICENSE")}>PolyForm Noncommercial 1.0.0</button>.</p>
+        <p>Licensed under the <button class="ln" type="button" on:click={() => openURL("https://github.com/hoijunkim/gifly/blob/master/LICENSE")}>PolyForm Noncommercial 1.0.0</button>.</p>
         <p>Bundles <button class="ln" type="button" on:click={() => openURL("https://ffmpeg.org")}>FFmpeg</button>, used under the LGPL-3.0.</p>
       </div>
     </div>

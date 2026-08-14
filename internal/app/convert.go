@@ -6,9 +6,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
-	"github.com/hoijun-kim/gifly/internal/gifjob"
-	"github.com/hoijun-kim/gifly/internal/probe"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/gifjob"
+	"github.com/hoijunkim/gifly/internal/probe"
 	"github.com/wailsapp/wails/v2/pkg/runtime"
 )
 

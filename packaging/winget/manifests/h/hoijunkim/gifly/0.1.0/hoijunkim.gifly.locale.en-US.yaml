@@ -1,13 +1,13 @@
-PackageIdentifier: hoijun-kim.gifly
+PackageIdentifier: hoijunkim.gifly
 PackageVersion: 0.1.0
 PackageLocale: en-US
 Publisher: H.K
-PublisherUrl: https://github.com/hoijun-kim
-PublisherSupportUrl: https://github.com/hoijun-kim/gifly/issues
+PublisherUrl: https://github.com/hoijunkim
+PublisherSupportUrl: https://github.com/hoijunkim/gifly/issues
 PackageName: gifly
-PackageUrl: https://github.com/hoijun-kim/gifly
+PackageUrl: https://github.com/hoijunkim/gifly
 License: PolyForm Noncommercial 1.0.0
-LicenseUrl: https://github.com/hoijun-kim/gifly/blob/master/LICENSE
+LicenseUrl: https://github.com/hoijunkim/gifly/blob/master/LICENSE
 ShortDescription: Turn a video or a set of images into a GIF, WebP or APNG.
 Description: >-
   gifly turns a video (trimmed) or a set of images (sequenced) into an optimized

@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
 )
 
 // fakeRunner records every invocation and, on a specified call index (writeOn),

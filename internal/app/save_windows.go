@@ -7,7 +7,7 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/hoijun-kim/gifly/internal/ffmpeg"
+	"github.com/hoijunkim/gifly/internal/ffmpeg"
 )
 
 // copyFileToClipboard puts the file on the Windows clipboard as a file drop
