@@ -5,11 +5,11 @@
 # plus SHA256SUMS.txt. Run from anywhere; needs the Wails CLI and a source
 # FFmpeg (ffmpeg.exe + ffprobe.exe + its LICENSE.txt).
 #
-# Usage: scripts/package.sh [version]   (version defaults to 0.1.0)
+# Usage: scripts/package.sh [version]   (version defaults to 0.1.1)
 #   GIFLY_FFMPEG_DIR overrides where the source ffmpeg.exe/ffprobe.exe live.
 set -euo pipefail
 
-VER="${1:-0.1.0}"
+VER="${1:-0.1.1}"
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$ROOT"
 
